@@ -2052,3 +2052,759 @@ Language: English, Spanish
 Plot: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
 Actors: Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
 *****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Webster Hall
+Venue Location: New York
+Date of the Event: 2019-04-26T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Webster Hall
+Venue Location: New York
+Date of the Event: 2019-04-26T19:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: Poundcake
+preview song: https://p.scdn.co/mp3-preview/e2abec7dff8b0a0364c4f043a8924c131ec0ecf6?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: For Unlawful Carnal Knowledge
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+1
+song name: The T (feat. Adore Delano)
+preview song: https://p.scdn.co/mp3-preview/c98f0b7e1fcf7b2e5131b51f920d71dcf2c4b5df?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+2
+song name: Poundcake Freestyle
+preview song: https://p.scdn.co/mp3-preview/ea1a361042fd4b021207b3afdc877fc07989a30e?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake Freestyle
+artist(s): TRU Tactics
+*****************************
+**********SONG INFO*********
+3
+song name: Stun (feat. Gia Gunn)
+preview song: https://p.scdn.co/mp3-preview/a8063ecd7d519058ffb431c77361c37d065f7133?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+4
+song name: Puppet
+preview song: https://p.scdn.co/mp3-preview/155758dfd7b613ac2814669d9f25e1a0b0e37aea?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+5
+song name: Come to Brazil
+preview song: https://p.scdn.co/mp3-preview/b1bbf160ff178dc88e754f170fa5be7e03be0e9f?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+6
+song name: Poundcake (Live)
+preview song: https://p.scdn.co/mp3-preview/4b2587fafd09b7c3c50690abe51e1b9aeb2e0cb7?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: At Your Service (Live)
+artist(s): Sammy Hagar
+*****************************
+**********SONG INFO*********
+7
+song name: Poundcake
+preview song: https://p.scdn.co/mp3-preview/4e6a58fa0f29d8c8f709f28c621fc2c24b84410c?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Best of Volume 1
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+8
+song name: Poundcake - Remastered
+preview song: https://p.scdn.co/mp3-preview/c3f528a92b5654e67e8a93d27b6b0a2cdcdf2653?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: The Best of Both Worlds
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+9
+song name: Slaytina
+preview song: https://p.scdn.co/mp3-preview/a3eb98ed89c88ee093f3eac43f261c57cad8eab4?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+10
+song name: Poundcake - Live Version
+preview song: https://p.scdn.co/mp3-preview/d394764c58c64c4f9d559002940742661c9dd402?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Van Halen Live: Right Here, Right Now
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+11
+song name: I Invented That (feat. Jackie Beat)
+preview song: https://p.scdn.co/mp3-preview/6bee14446caeac604877b408484ee1326ca1d7fb?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+12
+song name: Let's Do Drag (feat. Lady Red Couture)
+preview song: https://p.scdn.co/mp3-preview/0b76d6c45221a3a192ffb499c31966a49adb7390?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+13
+song name: Diamond in the Rough
+preview song: https://p.scdn.co/mp3-preview/da1eaf472b0273fefa80aad4317fded62d28073f?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+14
+song name: Poundcake
+preview song: https://p.scdn.co/mp3-preview/4e6a58fa0f29d8c8f709f28c621fc2c24b84410c?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Van Halen Best of Volume 1
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+15
+song name: Race Chaser
+preview song: https://p.scdn.co/mp3-preview/a18b65c239908de3127191140fe7b609e4aa84bc?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+16
+song name: High
+preview song: https://p.scdn.co/mp3-preview/c09e36ab9df4db1b66817d5525c67d2b780ba680?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+17
+song name: It Is What It Is (feat. Nick Laughlin & Jeremy Mark Mikush)
+preview song: https://p.scdn.co/mp3-preview/52ecc7695ab9c1f0966daa1696e413276c4969b7?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+18
+song name: Chicken (feat. Miss Fame)
+preview song: https://p.scdn.co/mp3-preview/8cbf61f13db845d1942b69d6d03d79af17875859?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+19
+song name: PoundCake
+preview song: https://p.scdn.co/mp3-preview/e1419863fdec68b5b021696ba14aa2127b4d3231?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Lucine
+artist(s): Lucine Fyelon
+*****************************
+**********MOVIE INFO*********
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: Transformer
+Release Year: 2017
+IMDB Rating: 7.5
+**********MOVIE INFO*********
+Title: Transformers
+Release Year: 2007
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 57%
+Country of Production: USA
+Language: English, Spanish
+Plot: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
+Actors: Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Webster Hall
+Venue Location: New York
+Date of the Event: 2019-04-26T19:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: Poundcake
+preview song: https://p.scdn.co/mp3-preview/e2abec7dff8b0a0364c4f043a8924c131ec0ecf6?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: For Unlawful Carnal Knowledge
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+1
+song name: The T (feat. Adore Delano)
+preview song: https://p.scdn.co/mp3-preview/c98f0b7e1fcf7b2e5131b51f920d71dcf2c4b5df?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+2
+song name: Poundcake Freestyle
+preview song: https://p.scdn.co/mp3-preview/ea1a361042fd4b021207b3afdc877fc07989a30e?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake Freestyle
+artist(s): TRU Tactics
+*****************************
+**********SONG INFO*********
+3
+song name: Stun (feat. Gia Gunn)
+preview song: https://p.scdn.co/mp3-preview/a8063ecd7d519058ffb431c77361c37d065f7133?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+4
+song name: Puppet
+preview song: https://p.scdn.co/mp3-preview/155758dfd7b613ac2814669d9f25e1a0b0e37aea?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+5
+song name: Come to Brazil
+preview song: https://p.scdn.co/mp3-preview/b1bbf160ff178dc88e754f170fa5be7e03be0e9f?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+6
+song name: Poundcake (Live)
+preview song: https://p.scdn.co/mp3-preview/4b2587fafd09b7c3c50690abe51e1b9aeb2e0cb7?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: At Your Service (Live)
+artist(s): Sammy Hagar
+*****************************
+**********SONG INFO*********
+7
+song name: Poundcake
+preview song: https://p.scdn.co/mp3-preview/4e6a58fa0f29d8c8f709f28c621fc2c24b84410c?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Best of Volume 1
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+8
+song name: Poundcake - Remastered
+preview song: https://p.scdn.co/mp3-preview/c3f528a92b5654e67e8a93d27b6b0a2cdcdf2653?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: The Best of Both Worlds
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+9
+song name: Slaytina
+preview song: https://p.scdn.co/mp3-preview/a3eb98ed89c88ee093f3eac43f261c57cad8eab4?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+10
+song name: Poundcake - Live Version
+preview song: https://p.scdn.co/mp3-preview/d394764c58c64c4f9d559002940742661c9dd402?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Van Halen Live: Right Here, Right Now
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+11
+song name: I Invented That (feat. Jackie Beat)
+preview song: https://p.scdn.co/mp3-preview/6bee14446caeac604877b408484ee1326ca1d7fb?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+12
+song name: Let's Do Drag (feat. Lady Red Couture)
+preview song: https://p.scdn.co/mp3-preview/0b76d6c45221a3a192ffb499c31966a49adb7390?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+13
+song name: Diamond in the Rough
+preview song: https://p.scdn.co/mp3-preview/da1eaf472b0273fefa80aad4317fded62d28073f?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+14
+song name: Poundcake
+preview song: https://p.scdn.co/mp3-preview/4e6a58fa0f29d8c8f709f28c621fc2c24b84410c?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Van Halen Best of Volume 1
+artist(s): Van Halen
+*****************************
+**********SONG INFO*********
+15
+song name: Race Chaser
+preview song: https://p.scdn.co/mp3-preview/a18b65c239908de3127191140fe7b609e4aa84bc?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+16
+song name: High
+preview song: https://p.scdn.co/mp3-preview/c09e36ab9df4db1b66817d5525c67d2b780ba680?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+17
+song name: It Is What It Is (feat. Nick Laughlin & Jeremy Mark Mikush)
+preview song: https://p.scdn.co/mp3-preview/52ecc7695ab9c1f0966daa1696e413276c4969b7?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+18
+song name: Chicken (feat. Miss Fame)
+preview song: https://p.scdn.co/mp3-preview/8cbf61f13db845d1942b69d6d03d79af17875859?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poundcake
+artist(s): Alaska Thunderfuck
+*****************************
+**********SONG INFO*********
+19
+song name: PoundCake
+preview song: https://p.scdn.co/mp3-preview/e1419863fdec68b5b021696ba14aa2127b4d3231?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Lucine
+artist(s): Lucine Fyelon
+*****************************
+**********MOVIE INFO*********
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+*****************************
+**********MOVIE INFO*********
+Title: Transformers
+Release Year: 2007
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 57%
+Country of Production: USA
+Language: English, Spanish
+Plot: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
+Actors: Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
+*****************************
+**********MOVIE INFO*********
+Title: Deadpool
+Release Year: 2016
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 84%
+Country of Production: USA
+Language: English
+Plot: A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.
+Actors: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=02bdea90c30b49e8b6e95241ece5f1f0
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
